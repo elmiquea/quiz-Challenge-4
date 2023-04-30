@@ -23,12 +23,12 @@ const buttonD = document.getElementById("d");
 const  quizQuestions = [{
     question: "What does API stands for?",
     choiceA: "Active program incorporation",
-    choiceB: "Accouting program institution",
+    choiceB: "Accounting program institution",
     choiceC: "Application programming interface",
     choiceD: "none of the above",
     correctAnswer: "c"},
   {
-    question: "What are some style for creatign a Web API?",
+    question: "What are some style for creating a Web API?",
     choiceA: "XML/jSON",
     choiceB: "HTML/CSS",
     choiceC: "JAVASCRIPT/BASH",
