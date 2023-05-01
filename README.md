@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6814a959d5f02bc9b0d8daf45cf9b340947d1c05
 # 04 Web APIs: Code Quiz
 
 ## my task is to 
@@ -39,7 +43,10 @@ The following animation demonstrates the application functionality:
 
 ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
 
+<<<<<<< HEAD
 =======
 # Quiz-Challenge
 Good luck!@
 >>>>>>> 411f2eb7da855367d0ea319042e491e8fe5ff97f
+=======
+>>>>>>> 6814a959d5f02bc9b0d8daf45cf9b340947d1c05
