@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 04 Web APIs: Code Quiz
 
@@ -40,3 +41,7 @@ The following animation demonstrates the application functionality:
 ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
 
 
+=======
+# Quiz-Challenge
+Good Luck!@
+>>>>>>> 126368268fb0da8af50baa79b0cccad36e43884f
