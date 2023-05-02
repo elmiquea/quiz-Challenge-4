@@ -1,8 +1,6 @@
-
-
 # 04 Web APIs: Code Quiz
 
-## my task is to 
+## My task 
 
 At some point in your journey to become a full-stack web developer, you’ll likely be asked to complete a coding assessment&mdash;perhaps as part of an interview process. A typical coding assessment includes both multiple-choice questions and interactive coding challenges. 
 
@@ -39,5 +37,4 @@ THEN I can save my initials and my score
 The following animation demonstrates the application functionality:
 
 ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
-
 
